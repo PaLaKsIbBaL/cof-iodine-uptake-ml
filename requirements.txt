@@ -1,0 +1,14 @@
+# requirements.txt
+# COF Iodine Uptake ML Pipeline
+# Install with: pip install -r requirements.txt
+
+xgboost>=2.0
+lightgbm>=4.0
+shap>=0.44
+optuna>=3.5
+scikit-learn>=1.4
+pandas>=2.0
+numpy>=1.26
+matplotlib>=3.8
+seaborn>=0.13
+scipy>=1.12
